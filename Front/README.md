@@ -1,11 +1,11 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lab04ieti.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://taskplannerapi2.herokuapp.com/)
 
-Deploy in Azure: https://lab04ieti.azurewebsites.net
+[![Azure](https://aka.ms/deploytoazurebutton)](https://taskplanners.azurewebsites.net/api/add-task?code=NWSnen0J4ChNFX2V00AR6LAvFRNd/WJAiOBTSEM3ZrsBUB6k8Ar73Q==)
 # Credenciales:
 * email:andres@mail.com 
 * password: afqd
 
-Una vez realice el LogIn será redirigido a: https://taskplannerproject.herokuapp.com/tasks
+
 
 
 
